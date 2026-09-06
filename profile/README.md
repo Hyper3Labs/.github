@@ -33,13 +33,13 @@ and the individual samples behind every number.
 | [GeoSpatial](https://hyper3labs.github.io/spaces/geospatial/) | Do retrieved neighbours preserve land-use identity? |
 | [Visual Safety](https://hyper3labs.github.io/spaces/visual-safety/) | Is one extra catch worth five false reviews and six more queue slots? |
 
-Every Space compares `hyper3-clip-v0.5` against OpenAI CLIP ViT-B/32 on the same
+Every Space compares `hyper3-clip-v1` against OpenAI CLIP ViT-B/32 on the same
 bounded probe, and shows the per-case evidence for both — including the cases
 CLIP wins.
 
 ## Models
 
-- [hyper3-clip-v0.5](https://huggingface.co/hyper3labs/hyper3-clip-v0.5) is an
+- [hyper3-clip-v1](https://huggingface.co/hyper3labs/hyper3-clip-v1) is an
   open-weight vision-language embedding model for hierarchy-sensitive retrieval.
 
 ## Open-source tools

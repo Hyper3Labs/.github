@@ -4,7 +4,7 @@
   <p><strong>Embedding models and retrieval infrastructure.</strong></p>
   <p>
     <a href="https://hyper3labs.com">Website</a> ·
-    <a href="https://hyper3labs.github.io/spaces/abo-catalog/">Explore a Space</a> ·
+    <a href="https://spaces.hyper3labs.com/abo-catalog/">Explore a Space</a> ·
     <a href="https://huggingface.co/hyper3labs">Hugging Face</a>
   </p>
 </div>
@@ -26,12 +26,12 @@ and the individual samples behind every number.
 
 | Space | The question it answers |
 | --- | --- |
-| [ABO Catalog](https://hyper3labs.github.io/spaces/abo-catalog/) | Does the model find the right product, not just a plausible category match? |
-| [Fashion Products](https://hyper3labs.github.io/spaces/fashion-products/) | Does the exact SKU reach the shopper's first screen? |
-| [Precision Regions](https://hyper3labs.github.io/spaces/precision-regions/) | Does the exact region reach the operator's first screen? |
-| [Logo Search](https://hyper3labs.github.io/spaces/logo-search/) | Which existing logo best satisfies a detailed creative brief? |
-| [GeoSpatial](https://hyper3labs.github.io/spaces/geospatial/) | Do retrieved neighbours preserve land-use identity? |
-| [Visual Safety](https://hyper3labs.github.io/spaces/visual-safety/) | Is one extra catch worth five false reviews and six more queue slots? |
+| [ABO Catalog](https://spaces.hyper3labs.com/abo-catalog/) | Does the model find the right product, not just a plausible category match? |
+| [Fashion Products](https://spaces.hyper3labs.com/fashion-products/) | Does the exact SKU reach the shopper's first screen? |
+| [Precision Regions](https://spaces.hyper3labs.com/precision-regions/) | Does the exact region reach the operator's first screen? |
+| [Logo Search](https://spaces.hyper3labs.com/logo-search/) | Which existing logo best satisfies a detailed creative brief? |
+| [GeoSpatial](https://spaces.hyper3labs.com/geospatial/) | Do retrieved neighbours preserve land-use identity? |
+| [Visual Safety](https://spaces.hyper3labs.com/visual-safety/) | Is one extra catch worth five false reviews and six more queue slots? |
 
 Every Space compares `hyper3-clip-v1` against OpenAI CLIP ViT-B/32 on the same
 bounded probe, and shows the per-case evidence for both — including the cases
